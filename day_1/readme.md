@@ -1,0 +1,1 @@
+pushed to github, reached out to 3 people starting on day 1 and am ready for day 2
