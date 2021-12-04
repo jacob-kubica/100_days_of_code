@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+}
+
+#challenge {
+  color: gold;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  font-family: "Fira Sans", sans-serif;
+}
